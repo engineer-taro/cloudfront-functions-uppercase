@@ -1,0 +1,7 @@
+### 
+GET https://api-gateway-deployment-sample.click/prod/hello HTTP/1.1
+
+
+### 
+
+GET https://example.com/hello?test=error HTTP/1.1
